@@ -9,6 +9,11 @@ Busco una oportunidad para aportar a un equipo de desarrollo y seguir creciendo 
 
 ## Proyectos con código público
 
+### [Shomandi · Catálogo y gestión de celulares](https://github.com/bomblan310-cpu/catalogo-shomandi)
+Catálogo y gestión de una tienda de celulares: compras, proveedores, inventario por IMEI, ventas al contado, devoluciones y reportes en Excel.
+
+Backend con ASP.NET Core, EF Core y PostgreSQL, organizado en capas de Dominio, Aplicación, Infraestructura y API siguiendo Clean Architecture. [Ver capturas y decisiones técnicas](https://portafolio-mio-theta.vercel.app/proyectos#shomandi).
+
 ### [StockApp · Inventario](https://github.com/bomblan310-cpu/stockapp-inventario)
 Productos, entradas, salidas e historial de inventario con C#, ASP.NET Core, Dapper y PostgreSQL.
 
@@ -28,11 +33,6 @@ Catálogo, carrito y panel administrativo con TypeScript, Next.js, React y Prism
 Prototipo para recibir reportes de emergencias, asignar unidades y seguir incidentes. Backend con .NET, interfaz con React y TypeScript, y actualizaciones en tiempo real con SignalR.
 
 El código es privado. La demo es un entorno de prueba.
-
-### [Shomandi · Ver capturas y descripción](https://portafolio-mio-theta.vercel.app/proyectos#shomandi)
-Catálogo y gestión de una tienda de celulares: compras, proveedores, inventario por IMEI, ventas al contado, devoluciones y reportes en Excel.
-
-Backend con ASP.NET Core, EF Core y PostgreSQL, organizado en capas de Dominio, Aplicación, Infraestructura y API siguiendo Clean Architecture. El código es privado.
 
 ## Tecnologías que utilizo
 
